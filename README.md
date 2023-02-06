@@ -1,4 +1,4 @@
-# Calculator-
+# Unit convertor
 Code for Simple Calculator
 #include<stdio.h>
 int main()
